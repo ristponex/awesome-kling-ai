@@ -1173,13 +1173,15 @@ While Kling doesn't use traditional negative prompts like Stable Diffusion, you 
 
 | Model | fal.ai Price | Atlas Cloud Price | You Save |
 |:------|:------------|:-----------------|:---------|
-| **Kling** | $0.224/sec (5s = $1.12) | $0.204/req | **82% cheaper** |
-| **Seedance** | ~$0.26/video | $0.222/req | **15% cheaper** |
-| **Wan 2.5** | $0.05/sec (5s = $0.25) | $0.05/req | **80% cheaper** |
-| **Wan 2.6** | Similar pricing | $0.07/req | Competitive |
+| **Kling** | $0.224/sec (5s = $1.12) | from $0.204/s | **82% cheaper** |
+| **Seedance** | ~$0.26/video | from $0.222/s | **15% cheaper** |
+| **Wan 2.5** | $0.05/sec (5s = $0.25) | from $0.05/s | **80% cheaper** |
+| **Wan 2.6** | Similar pricing | from $0.07/s | Competitive |
 | **Veo 3** | $0.40/sec (8s = $3.20) | TBD | Coming soon |
-| **Vidu Q3-Pro** | — | $0.06/req | Atlas exclusive |
-| **Vidu Q3-Turbo** | — | $0.034/req | Atlas exclusive |
+| **Vidu Q3-Pro** | — | from $0.06/s | Atlas exclusive |
+| **Vidu Q3-Turbo** | — | from $0.034/s | Atlas exclusive |
+
+*Prices shown are starting prices. Higher resolution or longer duration may cost more.*
 
 > 💡 Atlas Cloud offers the **lowest prices** across all major video models. Switch from fal.ai and save up to **82%** on your video generation costs.
 
@@ -1245,7 +1247,7 @@ See the full [Prompt Guide](#prompt-guide--examples) for 30+ detailed examples w
 
 Kling AI offers limited free credits on their official platform. For API access, pricing varies by provider:
 
-- **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683):** Starting at $0.204/request for Kling 3.0 Pro (85% off), with a **25% bonus on first recharge** (up to $100)
+- **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683):** Starting from $0.204/s for Kling 3.0 Pro (85% off), with a **25% bonus on first recharge** (up to $100)
 - **Official API:** ~$0.30+/request, region restricted
 
 For the best value, [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) offers the lowest pricing with access to all 20+ Kling models.
