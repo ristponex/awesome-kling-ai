@@ -23,6 +23,10 @@ A curated list of awesome resources, tools, prompts, tutorials, and API referenc
 
 > 🚀 **Access All 20+ Kling Models via [Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683)** — Uncensored, cheapest pricing (up to 85% off), fastest inference. Get **25% bonus on your first recharge** (up to $100).
 
+> 🔒 **Enterprise-Grade Security** — Atlas Cloud is **SOC I & II Certified** | **HIPAA Compliant** | US-based company with 99.9% uptime SLA.
+
+> 🎨 **NSFW Whitelist Update** — In addition to Seedance and Kling, the **Vidu series** (Q3-Pro, Q3-Turbo) is now also whitelisted for uncensored content generation on Atlas Cloud.
+
 ---
 
 ## Table of Contents
@@ -1164,6 +1168,20 @@ While Kling doesn't use traditional negative prompts like Stable Diffusion, you 
 | Provider C | $0.30-0.45 | Varies | ❌ | ~3 models | Few models, slow inference |
 
 > 💡 **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)** offers the most comprehensive Kling model coverage at the industry's lowest prices. New users get a **25% bonus on their first recharge** (up to $100 bonus).
+
+### Atlas Cloud vs fal.ai Pricing
+
+| Model | fal.ai Price | Atlas Cloud Price | You Save |
+|:------|:------------|:-----------------|:---------|
+| **Kling** | $0.224/sec (5s = $1.12) | $0.204/req | **82% cheaper** |
+| **Seedance** | ~$0.26/video | $0.222/req | **15% cheaper** |
+| **Wan 2.5** | $0.05/sec (5s = $0.25) | $0.05/req | **80% cheaper** |
+| **Wan 2.6** | Similar pricing | $0.07/req | Competitive |
+| **Veo 3** | $0.40/sec (8s = $3.20) | TBD | Coming soon |
+| **Vidu Q3-Pro** | — | $0.06/req | Atlas exclusive |
+| **Vidu Q3-Turbo** | — | $0.034/req | Atlas exclusive |
+
+> 💡 Atlas Cloud offers the **lowest prices** across all major video models. Switch from fal.ai and save up to **82%** on your video generation costs.
 
 ---
 
