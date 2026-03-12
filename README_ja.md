@@ -947,7 +947,7 @@ async function checkStatus(taskId) {
 Kling AI は公式プラットフォームで限定的な無料クレジットを提供しています。APIアクセスの料金はプロバイダーにより異なります：
 
 - **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)：** Kling 3.0 Pro $0.204/秒から（85%オフ）、**初回チャージで25%ボーナス**（最大$100）
-- **公式 API：** ~$0.30+/リクエスト、地域制限あり
+- **公式 API：** ~$0.30+/秒から、地域制限あり
 
 </details>
 
