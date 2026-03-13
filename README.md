@@ -21,7 +21,7 @@ A curated list of awesome resources, tools, prompts, tutorials, and API referenc
 
 ---
 
-> 🚀 **Access All 20+ Kling Models via [Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683)** — Uncensored, cheapest pricing (up to 85% off), fastest inference. Get **25% bonus on your first recharge** (up to $100).
+> 🚀 **Access All 20+ Kling Models via [Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai)** — Uncensored, cheapest pricing (up to 85% off), fastest inference. Get **25% bonus on your first recharge** (up to $100).
 
 > 🔒 **Enterprise-Grade Security** — Atlas Cloud is **SOC I & II Certified** | **HIPAA Compliant** | US-based company with 99.9% uptime SLA.
 
@@ -273,7 +273,7 @@ How does Kling AI stack up against other leading video generation models?
 | **Avatar** | ✅ | ❌ | ❌ | ❌ | ❌ |
 | **Motion Control** | ✅ | ❌ | ❌ | ❌ | ❌ |
 | **API Access** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **Uncensored API** | ✅ via [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) | Limited | Limited | Limited | Limited |
+| **Uncensored API** | ✅ via [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai) | Limited | Limited | Limited | Limited |
 
 > 💡 **Kling 3.0 is the only model offering native 4K at 60FPS with multi-shot narrative support**, making it the most versatile video generation model available as of early 2026.
 
@@ -283,7 +283,7 @@ How does Kling AI stack up against other leading video generation models?
 
 ### Using Atlas Cloud API
 
-The fastest way to start generating Kling AI videos is through the [Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683), which provides access to all 20+ Kling models with the industry's lowest pricing.
+The fastest way to start generating Kling AI videos is through the [Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai), which provides access to all 20+ Kling models with the industry's lowest pricing.
 
 #### cURL
 
@@ -1128,7 +1128,7 @@ While Kling doesn't use traditional negative prompts like Stable Diffusion, you 
 
 ### Third-Party Tools
 
-- 🛠️ [Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683) — Unified API for all Kling models, cheapest pricing
+- 🛠️ [Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai) — Unified API for all Kling models, cheapest pricing
 - 🛠️ [Kling Prompt Generator](https://github.com/search?q=kling+prompt+generator) — AI-powered prompt generators for Kling
 - 🖼️ [Kling Batch Processor](https://github.com/search?q=kling+batch) — Batch video generation tools
 
@@ -1140,7 +1140,7 @@ While Kling doesn't use traditional negative prompts like Stable Diffusion, you 
 
 - 📺 [Kling AI Beginner's Guide](https://www.youtube.com/results?search_query=kling+ai+tutorial+beginner) — YouTube tutorials for beginners
 - 📺 [Kling 3.0 New Features Walkthrough](https://www.youtube.com/results?search_query=kling+3.0+tutorial) — Latest version tutorials
-- 📝 [How to Use Kling API](https://www.atlascloud.ai?ref=JPM683) — Step-by-step API integration guide
+- 📝 [How to Use Kling API](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai) — Step-by-step API integration guide
 
 ### Advanced Techniques
 
@@ -1151,8 +1151,8 @@ While Kling doesn't use traditional negative prompts like Stable Diffusion, you 
 ### Blog Posts & Articles
 
 - 📝 [The Evolution of Kling AI: From 1.0 to 3.0](https://klingai.com/global/blog) — Official blog
-- 📝 [Kling AI Prompt Engineering Guide](https://www.atlascloud.ai?ref=JPM683) — Detailed prompting strategies
-- 📝 [Building a Video Pipeline with Kling API](https://www.atlascloud.ai?ref=JPM683) — Production workflow guide
+- 📝 [Kling AI Prompt Engineering Guide](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai) — Detailed prompting strategies
+- 📝 [Building a Video Pipeline with Kling API](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai) — Production workflow guide
 
 ---
 
@@ -1162,12 +1162,12 @@ While Kling doesn't use traditional negative prompts like Stable Diffusion, you 
 
 | Provider | Kling 3.0 Pro (T2V) | Kling 3.0 Std (T2V) | Kling O3 Pro | All Models | Notes |
 |:---|:---:|:---:|:---:|:---:|:---|
-| **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)** | **$0.204** | **Lower** | **✅ Available** | **✅ 20+ models** | ✅ Uncensored, fastest, 85% off, 25% first recharge bonus |
+| **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai)** | **$0.204** | **Lower** | **✅ Available** | **✅ 20+ models** | ✅ Uncensored, fastest, 85% off, 25% first recharge bonus |
 | Official API | ~$0.30+ | ~$0.20+ | Limited | ~10 models | Region restricted, censored |
 | Provider B | $0.25-0.40 | Varies | Limited | ~5 models | Limited model selection |
 | Provider C | $0.30-0.45 | Varies | ❌ | ~3 models | Few models, slow inference |
 
-> 💡 **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)** offers the most comprehensive Kling model coverage at the industry's lowest prices. New users get a **25% bonus on their first recharge** (up to $100 bonus).
+> 💡 **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai)** offers the most comprehensive Kling model coverage at the industry's lowest prices. New users get a **25% bonus on their first recharge** (up to $100 bonus).
 
 ### Atlas Cloud vs fal.ai Pricing
 
@@ -1199,9 +1199,9 @@ While Kling doesn't use traditional negative prompts like Stable Diffusion, you 
 <details>
 <summary><strong>How do I use the Kling API?</strong></summary>
 
-The easiest way to access all Kling models is through the [Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683):
+The easiest way to access all Kling models is through the [Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai):
 
-1. **Sign up** at [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)
+1. **Sign up** at [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai)
 2. **Get your API key** from the dashboard
 3. **Make API calls** to `https://api.atlascloud.ai/api/v1/model/generateVideo`
 4. **Choose your model** — from Kling 3.0 Pro to O3, all versions available
@@ -1222,9 +1222,9 @@ Each model has strengths:
 | **Multi-Shot** | **✅ 6 shots** (unique) | ❌ | ❌ |
 | **Duration** | 15s | **60s** (longest) | 10s |
 | **Audio** | ✅ 5 languages | ✅ | ✅ |
-| **API Access** | ✅ (via [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)) | ✅ | ✅ |
+| **API Access** | ✅ (via [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai)) | ✅ | ✅ |
 
-**Kling 3.0** is best for high-resolution, high-FPS commercial content. **Sora** excels at longer narratives. **Seedance** offers a good balance for general use. For access to all Kling models at the lowest price, use [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683).
+**Kling 3.0** is best for high-resolution, high-FPS commercial content. **Sora** excels at longer narratives. **Seedance** offers a good balance for general use. For access to all Kling models at the lowest price, use [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai).
 
 </details>
 
@@ -1247,10 +1247,10 @@ See the full [Prompt Guide](#prompt-guide--examples) for 30+ detailed examples w
 
 Kling AI offers limited free credits on their official platform. For API access, pricing varies by provider:
 
-- **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683):** Starting from $0.204/s for Kling 3.0 Pro (85% off), with a **25% bonus on first recharge** (up to $100)
+- **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai):** Starting from $0.204/s for Kling 3.0 Pro (85% off), with a **25% bonus on first recharge** (up to $100)
 - **Official API:** ~$0.30+/request, region restricted
 
-For the best value, [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) offers the lowest pricing with access to all 20+ Kling models.
+For the best value, [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai) offers the lowest pricing with access to all 20+ Kling models.
 
 </details>
 
@@ -1265,7 +1265,7 @@ For the best value, [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) offers t
 - **Element Reference:** Use specific visual elements as references
 - **Multi-input:** Accept text, video, image, and subject inputs simultaneously
 
-O3 is available via [Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683) in both Pro and Std variants.
+O3 is available via [Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai) in both Pro and Std variants.
 
 </details>
 
@@ -1296,7 +1296,7 @@ Generation time varies by model and settings:
 | Kling O3 | ~45-90s | ~90-180s | — |
 | Kling 2.5 Turbo | ~15-30s | ~30-60s | — |
 
-Times are approximate and may vary based on server load. [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) typically offers faster inference speeds.
+Times are approximate and may vary based on server load. [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai) typically offers faster inference speeds.
 
 </details>
 
@@ -1319,7 +1319,7 @@ Times are approximate and may vary based on server load. [Atlas Cloud](https://w
 
 <br/>
 
-### 👉 [Try Kling on Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)
+### 👉 [Try Kling on Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai)
 
 *New users get 25% bonus on first recharge (up to $100)*
 

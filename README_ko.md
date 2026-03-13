@@ -21,7 +21,7 @@
 
 ---
 
-> 🚀 **[Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683)로 20개 이상의 모든 Kling 모델에 접근** — 검열 없음, 최저가(최대 85% 할인), 최고속 추론. **첫 충전 시 25% 보너스** (최대 $100).
+> 🚀 **[Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai)로 20개 이상의 모든 Kling 모델에 접근** — 검열 없음, 최저가(최대 85% 할인), 최고속 추론. **첫 충전 시 25% 보너스** (최대 $100).
 
 > 🔒 **엔터프라이즈급 보안** — Atlas Cloud는 **SOC I & II 인증** | **HIPAA 준수** | 미국 기업, 99.9% 가동률 SLA 보장.
 
@@ -273,7 +273,7 @@ Kling AI는 다른 주요 영상 생성 모델과 어떻게 비교되는가?
 | **아바타** | ✅ | ❌ | ❌ | ❌ | ❌ |
 | **모션 제어** | ✅ | ❌ | ❌ | ❌ | ❌ |
 | **API 접근** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **검열 없는 API** | ✅ [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) 경유 | 제한적 | 제한적 | 제한적 | 제한적 |
+| **검열 없는 API** | ✅ [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai) 경유 | 제한적 | 제한적 | 제한적 | 제한적 |
 
 > 💡 **Kling 3.0은 네이티브 4K/60FPS와 멀티 샷 내러티브를 지원하는 유일한 모델**로, 2026년 초 기준 가장 다재다능한 영상 생성 모델입니다.
 
@@ -283,7 +283,7 @@ Kling AI는 다른 주요 영상 생성 모델과 어떻게 비교되는가?
 
 ### Atlas Cloud API 사용
 
-[Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683)는 20개 이상의 모든 Kling 모델에 업계 최저가로 접근할 수 있어, Kling AI 영상 생성을 시작하는 가장 빠른 방법입니다.
+[Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai)는 20개 이상의 모든 Kling 모델에 업계 최저가로 접근할 수 있어, Kling AI 영상 생성을 시작하는 가장 빠른 방법입니다.
 
 #### cURL
 
@@ -713,7 +713,7 @@ async function checkStatus(taskId) {
 
 ### 서드파티 도구
 
-- 🛠️ [Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683) — 모든 Kling 모델 통합 API, 최저가
+- 🛠️ [Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai) — 모든 Kling 모델 통합 API, 최저가
 - 🛠️ [Kling 프롬프트 생성기](https://github.com/search?q=kling+prompt+generator) — AI 기반 프롬프트 생성 도구
 - 🖼️ [Kling 배치 프로세서](https://github.com/search?q=kling+batch) — 배치 영상 생성 도구
 
@@ -725,7 +725,7 @@ async function checkStatus(taskId) {
 
 - 📺 [Kling AI 초보자 가이드](https://www.youtube.com/results?search_query=kling+ai+tutorial+beginner) — YouTube 초보자 튜토리얼
 - 📺 [Kling 3.0 새 기능 워크스루](https://www.youtube.com/results?search_query=kling+3.0+tutorial) — 최신 버전 튜토리얼
-- 📝 [Kling API 사용법](https://www.atlascloud.ai?ref=JPM683) — 단계별 API 통합 가이드
+- 📝 [Kling API 사용법](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai) — 단계별 API 통합 가이드
 
 ### 고급 기법
 
@@ -741,12 +741,12 @@ async function checkStatus(taskId) {
 
 | 제공업체 | Kling 3.0 Pro (T2V) | Kling 3.0 Std (T2V) | Kling O3 Pro | 전체 모델 | 비고 |
 |:---|:---:|:---:|:---:|:---:|:---|
-| **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)** | **$0.204** | **더 저렴** | **✅ 사용 가능** | **✅ 20+ 모델** | ✅ 검열 없음, 최고속, 85% 할인, 첫 충전 25% 보너스 |
+| **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai)** | **$0.204** | **더 저렴** | **✅ 사용 가능** | **✅ 20+ 모델** | ✅ 검열 없음, 최고속, 85% 할인, 첫 충전 25% 보너스 |
 | 공식 API | ~$0.30+ | ~$0.20+ | 제한적 | ~10 모델 | 지역 제한, 검열 있음 |
 | 제공업체 B | $0.25-0.40 | 다양 | 제한적 | ~5 모델 | 모델 선택이 제한적 |
 | 제공업체 C | $0.30-0.45 | 다양 | ❌ | ~3 모델 | 모델이 적고 추론이 느림 |
 
-> 💡 **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)**는 업계 최저가로 가장 포괄적인 Kling 모델 커버리지를 제공합니다. 신규 사용자는 **첫 충전 시 25% 보너스** (최대 $100 보너스)를 받을 수 있습니다.
+> 💡 **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai)**는 업계 최저가로 가장 포괄적인 Kling 모델 커버리지를 제공합니다. 신규 사용자는 **첫 충전 시 25% 보너스** (최대 $100 보너스)를 받을 수 있습니다.
 
 ### Atlas Cloud vs fal.ai 가격 비교
 
@@ -778,9 +778,9 @@ async function checkStatus(taskId) {
 <details>
 <summary><strong>Kling API는 어떻게 사용하나요?</strong></summary>
 
-모든 Kling 모델에 접근하는 가장 쉬운 방법은 [Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683)입니다:
+모든 Kling 모델에 접근하는 가장 쉬운 방법은 [Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai)입니다:
 
-1. [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)에서 **계정 가입**
+1. [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai)에서 **계정 가입**
 2. 대시보드에서 **API 키 발급**
 3. `https://api.atlascloud.ai/api/v1/model/generateVideo`로 **API 호출**
 4. Kling 3.0 Pro부터 O3까지, 모든 버전에서 **모델 선택**
@@ -802,7 +802,7 @@ async function checkStatus(taskId) {
 | **시간** | 15s | **60s** (최장) | 10s |
 | **오디오** | ✅ 5개 언어 | ✅ | ✅ |
 
-**Kling 3.0**은 고해상도, 고FPS 상업 콘텐츠에 최적입니다. **Sora**는 긴 내러티브에 강합니다. 최저가로 모든 Kling 모델에 접근하려면 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)를 이용하세요.
+**Kling 3.0**은 고해상도, 고FPS 상업 콘텐츠에 최적입니다. **Sora**는 긴 내러티브에 강합니다. 최저가로 모든 Kling 모델에 접근하려면 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai)를 이용하세요.
 
 </details>
 
@@ -811,7 +811,7 @@ async function checkStatus(taskId) {
 
 Kling AI는 공식 플랫폼에서 제한적인 무료 크레딧을 제공합니다. API 접근 요금은 제공업체에 따라 다릅니다:
 
-- **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683):** Kling 3.0 Pro $0.204/초부터 (85% 할인), **첫 충전 시 25% 보너스** (최대 $100)
+- **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai):** Kling 3.0 Pro $0.204/초부터 (85% 할인), **첫 충전 시 25% 보너스** (최대 $100)
 - **공식 API:** ~$0.30+/초부터, 지역 제한 있음
 
 </details>
@@ -841,7 +841,7 @@ Kling AI는 **5개 언어**의 네이티브 오디오 생성을 지원합니다:
 | Kling O3 | ~45-90초 | ~90-180초 | — |
 | Kling 2.5 Turbo | ~15-30초 | ~30-60초 | — |
 
-시간은 추정치이며 서버 부하에 따라 달라질 수 있습니다. [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)는 보통 더 빠른 추론 속도를 제공합니다.
+시간은 추정치이며 서버 부하에 따라 달라질 수 있습니다. [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai)는 보통 더 빠른 추론 속도를 제공합니다.
 
 </details>
 
@@ -864,7 +864,7 @@ Kling AI는 **5개 언어**의 네이티브 오디오 생성을 지원합니다:
 
 <br/>
 
-### 👉 [Atlas Cloud에서 Kling 체험하기](https://www.atlascloud.ai?ref=JPM683)
+### 👉 [Atlas Cloud에서 Kling 체험하기](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai)
 
 *신규 사용자 첫 충전 시 25% 보너스 (최대 $100)*
 

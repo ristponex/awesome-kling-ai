@@ -21,7 +21,7 @@
 
 ---
 
-> 🚀 **通过 [Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683) 访问全部 20+ 可灵模型** — 无审查、最低价（低至 1.5 折）、最快推理速度。**首充赠送 25% 额度**（最高 $100）。
+> 🚀 **通过 [Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai) 访问全部 20+ 可灵模型** — 无审查、最低价（低至 1.5 折）、最快推理速度。**首充赠送 25% 额度**（最高 $100）。
 
 > 🔒 **企业级安全保障** — Atlas Cloud 已通过 **SOC I & II 认证** | **HIPAA 合规** | 美国公司，提供 99.9% 正常运行时间 SLA。
 
@@ -275,7 +275,7 @@
 | **数字人** | ✅ | ❌ | ❌ | ❌ | ❌ |
 | **运动控制** | ✅ | ❌ | ❌ | ❌ | ❌ |
 | **API 接入** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **无审查 API** | ✅ 通过 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) | 有限 | 有限 | 有限 | 有限 |
+| **无审查 API** | ✅ 通过 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai) | 有限 | 有限 | 有限 | 有限 |
 
 > 💡 **可灵 3.0 是唯一支持原生 4K/60FPS 和多镜头叙事的模型**，使其成为截至 2026 年初最全面的视频生成模型。
 
@@ -285,7 +285,7 @@
 
 ### 使用 Atlas Cloud API
 
-通过 [Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683) 是开始使用可灵 AI 生成视频的最快方式，提供全部 20+ 可灵模型的访问，业界最低价格。
+通过 [Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai) 是开始使用可灵 AI 生成视频的最快方式，提供全部 20+ 可灵模型的访问，业界最低价格。
 
 #### cURL
 
@@ -1129,7 +1129,7 @@ async function checkStatus(taskId) {
 
 ### 第三方工具
 
-- 🛠️ [Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683) — 统一 API 访问所有可灵模型，最低价格
+- 🛠️ [Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai) — 统一 API 访问所有可灵模型，最低价格
 - 🛠️ [可灵提示词生成器](https://github.com/search?q=kling+prompt+generator) — AI 驱动的可灵提示词生成工具
 - 🖼️ [可灵批量处理器](https://github.com/search?q=kling+batch) — 批量视频生成工具
 
@@ -1141,7 +1141,7 @@ async function checkStatus(taskId) {
 
 - 📺 [可灵 AI 新手指南](https://www.youtube.com/results?search_query=kling+ai+tutorial+beginner) — YouTube 新手教程
 - 📺 [可灵 3.0 新功能详解](https://www.youtube.com/results?search_query=kling+3.0+tutorial) — 最新版本教程
-- 📝 [如何使用可灵 API](https://www.atlascloud.ai?ref=JPM683) — 分步 API 集成指南
+- 📝 [如何使用可灵 API](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai) — 分步 API 集成指南
 
 ### 进阶技巧
 
@@ -1152,8 +1152,8 @@ async function checkStatus(taskId) {
 ### 博客与文章
 
 - 📝 [可灵 AI 的发展历程：从 1.0 到 3.0](https://klingai.com/global/blog) — 官方博客
-- 📝 [可灵 AI 提示词工程指南](https://www.atlascloud.ai?ref=JPM683) — 详细提示词策略
-- 📝 [使用可灵 API 构建视频管线](https://www.atlascloud.ai?ref=JPM683) — 生产工作流指南
+- 📝 [可灵 AI 提示词工程指南](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai) — 详细提示词策略
+- 📝 [使用可灵 API 构建视频管线](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai) — 生产工作流指南
 
 ---
 
@@ -1163,12 +1163,12 @@ async function checkStatus(taskId) {
 
 | 供应商 | 可灵 3.0 Pro（T2V） | 可灵 3.0 Std（T2V） | 可灵 O3 Pro | 全部模型 | 备注 |
 |:---|:---:|:---:|:---:|:---:|:---|
-| **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)** | **$0.204** | **更低** | **✅ 可用** | **✅ 20+ 模型** | ✅ 无审查，最快速，1.5折，首充赠送25% |
+| **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai)** | **$0.204** | **更低** | **✅ 可用** | **✅ 20+ 模型** | ✅ 无审查，最快速，1.5折，首充赠送25% |
 | 官方 API | ~$0.30+ | ~$0.20+ | 有限 | ~10 模型 | 地区限制，有审查 |
 | 供应商 B | $0.25-0.40 | 不等 | 有限 | ~5 模型 | 模型选择有限 |
 | 供应商 C | $0.30-0.45 | 不等 | ❌ | ~3 模型 | 模型少，推理慢 |
 
-> 💡 **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)** 以业界最低价格提供最全面的可灵模型覆盖。新用户**首充赠送 25% 额度**（最高 $100 赠送）。
+> 💡 **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai)** 以业界最低价格提供最全面的可灵模型覆盖。新用户**首充赠送 25% 额度**（最高 $100 赠送）。
 
 ### Atlas Cloud vs fal.ai 价格对比
 
@@ -1200,9 +1200,9 @@ async function checkStatus(taskId) {
 <details>
 <summary><strong>如何使用可灵 API？</strong></summary>
 
-访问所有可灵模型的最简单方式是通过 [Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683)：
+访问所有可灵模型的最简单方式是通过 [Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai)：
 
-1. **注册** [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) 账号
+1. **注册** [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai) 账号
 2. **获取 API Key** — 在控制面板获取
 3. **发起 API 调用** — 向 `https://api.atlascloud.ai/api/v1/model/generateVideo` 发送请求
 4. **选择模型** — 从可灵 3.0 Pro 到 O3，所有版本可用
@@ -1223,9 +1223,9 @@ async function checkStatus(taskId) {
 | **多镜头** | **✅ 6个镜头**（独有） | ❌ | ❌ |
 | **时长** | 15s | **60s**（最长） | 10s |
 | **音频** | ✅ 5种语言 | ✅ | ✅ |
-| **API 接入** | ✅（通过 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)） | ✅ | ✅ |
+| **API 接入** | ✅（通过 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai)） | ✅ | ✅ |
 
-**可灵 3.0** 最适合高分辨率、高帧率的商业内容。**Sora** 擅长更长的叙事。**Seedance** 在通用场景中提供良好的平衡。要以最低价格访问所有可灵模型，请使用 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)。
+**可灵 3.0** 最适合高分辨率、高帧率的商业内容。**Sora** 擅长更长的叙事。**Seedance** 在通用场景中提供良好的平衡。要以最低价格访问所有可灵模型，请使用 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai)。
 
 </details>
 
@@ -1248,10 +1248,10 @@ async function checkStatus(taskId) {
 
 可灵 AI 在其官方平台上提供有限的免费额度。API 访问的定价因供应商而异：
 
-- **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)：** 可灵 3.0 Pro $0.204/秒起（1.5 折），**首充赠送 25% 额度**（最高 $100）
+- **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai)：** 可灵 3.0 Pro $0.204/秒起（1.5 折），**首充赠送 25% 额度**（最高 $100）
 - **官方 API：** ~$0.30+/请求，有地区限制
 
-要获得最佳性价比，[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) 以最低价格提供所有 20+ 可灵模型的访问。
+要获得最佳性价比，[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai) 以最低价格提供所有 20+ 可灵模型的访问。
 
 </details>
 
@@ -1266,7 +1266,7 @@ async function checkStatus(taskId) {
 - **元素参考：** 使用特定视觉元素作为参考
 - **多输入：** 同时接受文本、视频、图像和主体输入
 
-O3 通过 [Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683) 提供 Pro 和 Std 两个版本。
+O3 通过 [Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai) 提供 Pro 和 Std 两个版本。
 
 </details>
 
@@ -1297,7 +1297,7 @@ O3 通过 [Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683) 提供 Pro 和
 | 可灵 O3 | ~45-90秒 | ~90-180秒 | — |
 | 可灵 2.5 Turbo | ~15-30秒 | ~30-60秒 | — |
 
-时间为估算值，可能因服务器负载而变化。[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) 通常提供更快的推理速度。
+时间为估算值，可能因服务器负载而变化。[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai) 通常提供更快的推理速度。
 
 </details>
 
@@ -1320,7 +1320,7 @@ O3 通过 [Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683) 提供 Pro 和
 
 <br/>
 
-### 👉 [在 Atlas Cloud 上体验可灵](https://www.atlascloud.ai?ref=JPM683)
+### 👉 [在 Atlas Cloud 上体验可灵](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-kling-ai)
 
 *新用户首充赠送 25% 额度（最高 $100）*
 
